@@ -38,7 +38,7 @@ SOUNO-CRYPTO 拥有CTF杂项中常见的编码密码算法的加密和解密方�
 1.克隆项目及安装SOUNO-CRYPTO所需依赖包
 
 ```
-git clone https://github.com/ht0Ruial/SOUNO-CRYPTO.git
+git https://github.com/souno-io/SOUNO-CRYPTO
 cd SOUNO-CRYPTO
 pip3 install -r requirements.txt
 ```
